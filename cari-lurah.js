@@ -1,5 +1,5 @@
 function cariLurahBaru(calons) {
-    // your code here
+    // ini branch B
 }
 
 console.log(cariLurahBaru([1, 2, 3, 2, 1, 3, 2, 3])); // pemilihan ulang
